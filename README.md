@@ -1,4 +1,4 @@
 # semos-wp-git-course-2021
-+
-+ ## course
+
++ ## Course
 + ### Git & GitHub
